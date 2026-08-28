@@ -1,0 +1,6 @@
+@Operations_Santos_HostAddress = http://localhost:5208
+
+GET {{Operations_Santos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
